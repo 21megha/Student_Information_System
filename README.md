@@ -28,4 +28,5 @@ It allows users to:
 1. Clone the repository:
    ```bash
   git clone https://github.com/your-username/Student_Information_System.git
+  
   cd Student_Information_System
