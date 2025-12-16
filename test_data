@@ -1,10 +1,35 @@
-| Functionality              | Input Provided                                                | Expected Output                     |
-| -------------------------- | ------------------------------------------------------------- | ----------------------------------- |
-| Add Student                | Name: Rahul, Grade: 10, Age: 16, ID: 101, Contact: 9876543210 | Student added successfully          |
-| View All Students          | No input                                                      | Displays all stored student records |
-| View Students (Empty List) | No input                                                      | No Students added or found!         |
-| Search Student             | Student ID: 101                                               | Displays student details            |
-| Search Student (Invalid)   | Student ID: 999                                               | Student not found                   |
-| Update Student             | ID: 101, Update Age → 17                                      | Student information updated         |
-| Delete Student             | Student ID: 101                                               | Student deleted successfully        |
-| Delete Student (Invalid)   | Student ID: 999                                               | Student not found                   |
+Student Name: Rahul Sharma
+Age: 16
+Grade: 10
+Student ID: 101
+Contact: 9876543210
+
+Student Name: Priya Verma
+Age: 17
+Grade: 11
+Student ID: 102
+Contact: 9123456780
+
+Student Name: Aman Singh
+Age: 15
+Grade: 9
+Student ID: 103
+Contact: 9988776655
+
+Student Name: Neha Patel
+Age: 18
+Grade: 12
+Student ID: 104
+Contact: 9012345678
+
+Student Name: Rohit Kumar
+Age: 17
+Grade: 11
+Student ID: 105
+Contact: 8899776655
+
+Student Name: Sneha Gupta
+Age: 16
+Grade: 10
+Student ID: 106
+Contact: 9345678901
