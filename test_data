@@ -1,0 +1,10 @@
+| Functionality              | Input Provided                                                | Expected Output                     |
+| -------------------------- | ------------------------------------------------------------- | ----------------------------------- |
+| Add Student                | Name: Rahul, Grade: 10, Age: 16, ID: 101, Contact: 9876543210 | Student added successfully          |
+| View All Students          | No input                                                      | Displays all stored student records |
+| View Students (Empty List) | No input                                                      | No Students added or found!         |
+| Search Student             | Student ID: 101                                               | Displays student details            |
+| Search Student (Invalid)   | Student ID: 999                                               | Student not found                   |
+| Update Student             | ID: 101, Update Age → 17                                      | Student information updated         |
+| Delete Student             | Student ID: 101                                               | Student deleted successfully        |
+| Delete Student (Invalid)   | Student ID: 999                                               | Student not found                   |
