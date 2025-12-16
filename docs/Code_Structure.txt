@@ -1,0 +1,11 @@
+Student_Information_System/
+├── README.md                        # Project overview, setup, and usage instructions
+├── src/                             # Source code folder
+│   ├── Student.java                 # Student class with attributes, getters, setters, and display method
+│   └── Student_Information_System.java # Main program with menu-driven system
+├── docs/                            # Documentation folder
+│   ├── installation_guide.md        # Step-by-step installation instructions
+│   ├── user_manual.md               # Instructions for running and using the system
+│   └── code_explanation.md          # Explains code structure and methods
+└── test_data/                       # Optional: sample student data
+    └── sample_students.csv          # Example CSV file with student records
